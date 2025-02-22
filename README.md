@@ -73,7 +73,6 @@ Follow these commands in your terminal:
 bash
 Copy
 Edit
-
 git init
 git add .
 git commit -m "Initial commit: Add Flask chatbot code"
